@@ -1,6 +1,6 @@
 {
   "name": "better-template-strings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight string util to make working with dynamic and therefore possibly empty data a breeze.",
   "exports": {
     ".": {
