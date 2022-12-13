@@ -1,6 +1,6 @@
 {
-  "name": "better-strings",
-  "version": "1.0",
+  "name": "better-template-strings",
+  "version": "1.0.0",
   "description": "A lightweight string util to make working with dynamic and therefore possibly empty data a breeze.",
   "exports": {
     ".": {
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wintersteve/better-strings.git"
+    "url": "https://github.com/wintersteve/better-template-strings.git"
   },
   "keywords": [
     "npm",
@@ -56,9 +56,9 @@
   "author": "Steve Winter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wintersteve/better-strings.git"
+    "url": "https://github.com/wintersteve/better-template-strings.git"
   },
-  "homepage": "https://github.com/wintersteve/better-strings.git",
+  "homepage": "https://github.com/wintersteve/better-template-strings.git",
   "devDependencies": {
     "@types/chai": "^4.3.3",
     "@types/mocha": "^9.1.1",

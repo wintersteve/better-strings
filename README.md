@@ -18,7 +18,7 @@ console.log(checkedText)
 
 Do this instead!
 ```javascript
-import { f } from 'better-strings';
+import { f } from 'better-template-strings';
 
 // Empty string by default
 const text = f`Hello ${data?.possibleUndefinedValue}!`;
