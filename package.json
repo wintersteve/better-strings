@@ -41,17 +41,10 @@
     "url": "https://github.com/wintersteve/better-template-strings.git"
   },
   "keywords": [
-    "npm",
-    "javascript",
-    "typescript",
-    "esm",
-    "cjs",
-    "nodejs",
-    "commonjs",
-    "ecmascript",
-    "beginner",
-    "example",
-    "demonstration"
+    "strings",
+    "template strings",
+    "util",
+    "stdlib"
   ],
   "author": "Steve Winter",
   "license": "MIT",
