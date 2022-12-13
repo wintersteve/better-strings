@@ -1,4 +1,4 @@
-# better-strings
+# better-template-strings
 
 A lightweight string util to make working with dynamic and therefore possibly empty data a breeze.
 
